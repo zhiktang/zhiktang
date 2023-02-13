@@ -27,6 +27,7 @@
 
   
 #### Homelab
+  
 SystemX 3650 M4
 - 2x Xeon E5-2650v2
 - 128gb RAM
@@ -39,12 +40,15 @@ Dell R410
 - Literally sits around unplugged doing nothing
 
 #### Personal Computers
+  
 Thinkpad X1 Yoga Gen 3
+  
 - Intel i5-8550U
 - 16gb RAM
 - Fedora 37 + i3wm/Windows 10 Pro
 - Daily machine
-  <details>
+  
+<details>
     <summary>Look at my cool desktop owo</summary>
     
     ![i3wm desktop rice with neofetch](https://raw.githubusercontent.com/zhiktang/zhiktang/main/image.png)
@@ -62,8 +66,7 @@ Lenovo Legion 7 Gen 6
 - 60% Keyboard with Gateron Pro Milky Yellows
 - Wacom CTL-6100WL
 - Laptop Screen (2560x1600 165Hz)
-- Second Monitor: 27" 1920x1080 75Hz
-  </details>
+- Second Monitor: 27" 1920x1080 75Hz</details>
   
   <details>
   <summary>Look at her she's so precious I love her so much</summary>
