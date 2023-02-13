@@ -43,6 +43,11 @@ Thinkpad X1 Yoga Gen 3
 - 16gb RAM
 - Fedora 37 + i3wm/Windows 10 Pro
 - Daily machine
+  <details>
+    <summary>Look at my cool desktop owo</summary>
+    
+    ![i3wm desktop rice with neofetch](https://raw.githubusercontent.com/zhiktang/zhiktang/main/image.png)
+  </details>
 
 Lenovo Legion 7 Gen 6
 - Ryzen 9 5900HX
