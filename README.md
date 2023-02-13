@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🙃 Aliases: Riptide, SaratogaChan, Frostx
+### Aliases: Riptide, SaratogaChan, Frostx
 - 🔭 I’m currently working on AI anime **girl discord bot hehe**
 - 🌱 I’m currently learning about **Discord bots/LLMs**
 - 👯 I’m looking to collaborate on **nothing leave me alone**
