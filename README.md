@@ -17,6 +17,7 @@
 - Twitter: https://twitter.com/zhiktang
 - MAL: https://myanimelist.net/profile/zhiktang
 - osu!: https://osu.ppy.sh/users/26376467
+- osu! skin: https://github.com/zhiktang/bocchi-the-rock-osu-skin
 - Personal Website: too lazy to change two lines in nginx to move it over to zhiktang.com
   
   </details>
