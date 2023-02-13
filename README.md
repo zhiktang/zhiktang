@@ -1,4 +1,13 @@
 ### Hi there 👋
+- 🙃 Aliases: Riptide, SaratogaChan, Frostx
+- 🔭 I’m currently working on AI anime **girl discord bot hehe**
+- 🌱 I’m currently learning about **Discord bots/LLMs**
+- 👯 I’m looking to collaborate on **nothing leave me alone**
+- 🤔 I’m looking for help with **how tf do I make a AI tsundere anime girl discord bot that can hold conversations in chat owo**
+- 💬 Ask me about **Love Live/osu**
+- 📫 How to reach me: **zhiktang#5322**
+- 😄 Pronouns: **he/him**
+- ⚡ Fun fact: **I use <s>Arch<s> Fedora btw**
 
 <!--
 **zhiktang/zhiktang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
