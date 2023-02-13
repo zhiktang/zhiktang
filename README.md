@@ -51,7 +51,12 @@ Lenovo Legion 7 Gen 6
 - Windows 11 Home/Kubuntu 22.04
 - Desktop Replacement
   </details>
+  
+  <details>
+  <summary>Look at this cool picture</summary>
+![cool aqours picture from find my numazu](https://raw.githubusercontent.com/zhiktang/zhiktang/main/Fnuk8t2akAE81kv.jpg)  </details>
 ### If you know how to make an AI anime girl discord bot that reads chat and joins conversations as anime girls hmu I need you to do all the work and let me take credit
+  
 
 <!--
 **zhiktang/zhiktang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
