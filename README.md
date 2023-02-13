@@ -1,13 +1,57 @@
 ### Hi there 👋
 ### Aliases: Riptide, SaratogaChan, Frostx
-- 🔭 I’m currently working on **AI anime girl discord bot hehe**
-- 🌱 I’m currently learning about **Discord bots/LLMs**
-- 👯 I’m looking to collaborate on **nothing leave me alone**
-- 🤔 I’m looking for help with **how tf do I make a AI tsundere anime girl discord bot that can hold conversations in chat owo**
-- 💬 Ask me about **Love Live/osu**
-- 📫 How to reach me: **zhiktang#5322**
-- 😄 Pronouns: **he/him**
-- ⚡ Fun fact: **I use <s>Arch</s> Fedora btw**
+### Not actually any good at coding I mostly like messing around with computers lol
+
+<details>
+  <summary>About Me</summary>
+  
+  
+  I play osu! owo
+  
+  \*insert section about how Love Live Sunshine is my motivation and my reason for doing everything and why it's the greatest show ever\*
+    </details>
+  <details>
+  <summary>Links and Stuff</summary>
+  
+- Discord: zhiktang#5322
+- Twitter: https://twitter.com/zhiktang
+- MAL: https://myanimelist.net/profile/zhiktang
+- osu!: https://osu.ppy.sh/users/26376467
+- Personal Website: too lazy to change two lines in nginx to move it over to zhiktang.com
+  
+  </details>
+<details>
+  <summary>Computers hehe I love computers</summary>
+  
+
+  
+#### Homelab
+SystemX 3650 M4
+- 2x Xeon E5-2650v2
+- 128gb RAM
+- Proxmox
+- does literally everything
+
+Dell R410
+- 2x Xeon X5670
+- Ubuntu Server
+- Literally sits around unplugged doing nothing
+
+#### Personal Computers
+Thinkpad X1 Yoga Gen 3
+- Intel i5-8550U
+- 16gb RAM
+- Fedora 37 + i3wm/Windows 10 Pro
+- Daily machine
+
+Lenovo Legion 7 Gen 6
+- Ryzen 9 5900HX
+- RTX 3080 16GB
+- 24gb RAM
+- Windows 11 Home/Kubuntu 22.04
+- Desktop Replacement
+  </details>
+### If you know how to make an AI anime girl discord bot that reads chat and joins conversations as anime girls hmu I need you to do all the work and let me take credit
 
 <!--
 **zhiktang/zhiktang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
