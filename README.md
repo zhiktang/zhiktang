@@ -56,6 +56,13 @@ Lenovo Legion 7 Gen 6
 - 24gb RAM
 - Windows 11 Home/Kubuntu 22.04
 - Desktop Replacement
+  
+#### Peripherals
+- Logitech G305
+- 60% Keyboard with Gateron Pro Milky Yellows
+- Wacom CTL-6100WL
+- Laptop Screen (2560x1600 165Hz)
+- Second Monitor: 27" 1920x1080 75Hz
   </details>
   
   <details>
