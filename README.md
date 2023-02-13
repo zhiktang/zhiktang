@@ -53,8 +53,8 @@ Lenovo Legion 7 Gen 6
   </details>
   
   <details>
-  <summary>Look at this cool picture</summary>
-![cool aqours picture from find my numazu](https://raw.githubusercontent.com/zhiktang/zhiktang/main/Fnuk8t2akAE81kv.jpg)  </details>
+  <summary>Look at her she's so precious I love her so much</summary>
+![cool chika picture from find my numazu]([https://raw.githubusercontent.com/zhiktang/zhiktang/main/Fnuk8t2akAE81kv.jpg](https://raw.githubusercontent.com/zhiktang/zhiktang/main/FnpfQKdacAAAeTO.jpg))  </details>
 ### If you know how to make an AI anime girl discord bot that reads chat and joins conversations as an anime girl hmu I need you to do all the work and let me take credit
   
 
