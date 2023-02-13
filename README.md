@@ -7,7 +7,7 @@
 - 💬 Ask me about **Love Live/osu**
 - 📫 How to reach me: **zhiktang#5322**
 - 😄 Pronouns: **he/him**
-- ⚡ Fun fact: **I use <s>Arch<s> Fedora btw**
+- ⚡ Fun fact: **I use <s>Arch</s> Fedora btw**
 
 <!--
 **zhiktang/zhiktang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
