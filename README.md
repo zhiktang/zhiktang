@@ -55,7 +55,7 @@ Lenovo Legion 7 Gen 6
   <details>
   <summary>Look at this cool picture</summary>
 ![cool aqours picture from find my numazu](https://raw.githubusercontent.com/zhiktang/zhiktang/main/Fnuk8t2akAE81kv.jpg)  </details>
-### If you know how to make an AI anime girl discord bot that reads chat and joins conversations as anime girls hmu I need you to do all the work and let me take credit
+### If you know how to make an AI anime girl discord bot that reads chat and joins conversations as an anime girl hmu I need you to do all the work and let me take credit
   
 
 <!--
