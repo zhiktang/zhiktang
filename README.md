@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Aliases: Riptide, SaratogaChan, Frostx
-### Not actually any good at coding I mostly like messing around with computers lol
+### Not actually any good at coding I mostly just like messing around with computers lol
 
 <details>
   <summary>About Me</summary>
