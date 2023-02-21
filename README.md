@@ -43,7 +43,7 @@ Dell R410
   
 Thinkpad X1 Yoga Gen 3
   
-- Intel i5-8550U
+- Intel i5-8350U
 - 16gb RAM
 - Fedora 37 + i3wm/Windows 10 Pro
 - Daily machine
