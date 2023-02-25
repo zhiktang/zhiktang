@@ -50,7 +50,7 @@ Thinkpad X1 Yoga Gen 3
   
 <details>
     <summary>Look at my cool desktop owo</summary>
-<img src="https://raw.githubusercontent.com/zhiktang/zhiktang/main/image.png" alt="Desktop hehe">  </details>
+<img src="https://raw.githubusercontent.com/zhiktang/zhiktang/main/image1.png" alt="Desktop hehe">  </details>
 
 Lenovo Legion 7 Gen 6
 - Ryzen 9 5900HX
