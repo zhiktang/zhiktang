@@ -60,9 +60,9 @@ Lenovo Legion 7 Gen 6
 - Desktop Replacement
   
 #### Peripherals
-- Logitech G305
-- 60% Keyboard with Gateron Pro Milky Yellows
-- Wacom CTL-6100WL
+- Logitech G305 (1200dpi 1x sens)
+- 60% Keyboard with Gateron Milky Yellow Pros
+- Wacom CTL-6100WL (Wacom Drivers because I use the tablet more than just for osu 🫠)
 - Laptop Screen (2560x1600 165Hz)
 - Second Monitor: 27" 1920x1080 75Hz</details>
   
