@@ -1,3 +1,4 @@
+<!--
 ### Hi there 👋
 ### Aliases: Riptide, SaratogaChan, Frostx
 ### Not actually any good at coding I mostly just like messing around with computers lol
@@ -70,7 +71,8 @@ Lenovo Legion 7 Gen 6
   <summary>Look at her she's so precious I love her so much</summary>
 ![cool chika picture from find my numazu](https://raw.githubusercontent.com/zhiktang/zhiktang/main/FnpfQKdacAAAeTO.jpg)  </details>
 ### If you know how to make an AI anime girl discord bot that reads chat and joins conversations as an anime girl hmu I need you to do all the work and let me take credit
-  
+-->
+>_<
 
 <!--
 **zhiktang/zhiktang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
