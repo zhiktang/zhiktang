@@ -5,6 +5,5 @@
 \ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 50dvi; top: 60dvb; width: 80dvmin; background-position: 0 0; height: 50dvmin; translate: -50% -50%; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; height: 200px; width: 1500px; animation: 0.5s linear both alternate infinite shrink-x; background-image: url('https://raw.githubusercontent.com/zhiktang/zhiktang/main/vtuber-rinrinne-rin-rinne-dance.gif');]{x0000}$}
 ```
 <p align="center">
-  <br></br>
 <img src="https://raw.githubusercontent.com/zhiktang/zhiktang/main/rinrinne-vtuber2.gif" />
 </p>
